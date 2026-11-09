@@ -1,0 +1,15 @@
+# 고객 신용정보 — 실제 케이스·학습 데이터는 커밋 금지
+loan-review/*/cases/*
+!loan-review/*/cases/_template/
+loan-review/*/learning/*
+!loan-review/*/learning/candidates.md
+!loan-review/*/learning/closed.md
+!loan-review/*/learning/style_notes.md
+!loan-review/*/learning/diffs.jsonl
+!loan-review/*/learning/scorecard.jsonl
+!loan-review/*/learning/_결재본대조_양식.md
+*.docx
+*.pdf
+*.jpg
+*.png
+__pycache__/
